@@ -22,7 +22,7 @@ app.use(cookieParser());
 
 
 const corsOption ={
-    origin:'http://localhost:5173',
+    origin:'https://getplacedinindia.onrender.com',
     credentials:true
 }
 
